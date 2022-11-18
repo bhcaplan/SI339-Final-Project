@@ -1,0 +1,14 @@
+.gallery{
+    display:grid;
+    grid-template-columns: auto auto;
+    row-gap: 50px;
+    border: 2px solid black;
+    width: 90%;
+    margin: auto;
+    align-items: stretch;
+    justify-content: center;
+    justify-items: center;
+}
+
+
+ 

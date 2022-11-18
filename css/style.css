@@ -1,0 +1,35 @@
+body{
+    background-color: tan;
+}
+
+nav li{
+    background-color: whitesmoke;
+    border: 5px solid black;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 10px;
+    width:15%;
+    text-align: center;
+    justify-self: center;
+ }
+
+nav{
+    text-align: center;
+}
+ 
+h1{
+    font-size: 30px;
+    text-align: center;
+}
+
+.skip:focus {
+    position: static;
+    width: auto;
+    height: auto;
+}
+
+.gallery img{
+    width: 90%;
+    border: black 10px solid;
+    height: 90%;
+}
